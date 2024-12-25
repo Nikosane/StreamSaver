@@ -62,9 +62,9 @@ buildozer android debug
 ## Requirements 📋
 
 Python 3.8+
-Kivy 2.1.0+
-Buildozer for APK generation
-Android device for testing the APK.
+,Kivy 2.1.0+
+,Buildozer for APK generation
+,Android device for testing the APK.
 
 ## Contributing 🤝
 
