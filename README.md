@@ -36,3 +36,45 @@ A visually appealing Android app built with Python that allows users to download
    ```bash
    git clone https://github.com/Nikosane/StreamSaver.git
    cd StreamSaver
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+3. Run the app locally (for testing):
+```
+python main.py
+```
+4. To build the APK:
+- Install Buildozer:
+```
+pip install buildozer
+```
+- Initialize Buildozer:
+```
+buildozer init
+```
+- Build the APK:
+```
+buildozer android debug
+```
+- Transfer the APK to your Android device and install it.
+
+## Requirements 📋
+
+Python 3.8+
+Kivy 2.1.0+
+Buildozer for APK generation
+Android device for testing the APK.
+
+## Contributing 🤝
+
+Contributions are welcome! Feel free to open issues or submit pull requests. Please ensure your code adheres to the project's style and guidelines.
+
+## License 📄
+
+This project is licensed under the MIT License.
+
+## Acknowledgments 🙌
+
+- Inspired by the versatility of Python and Kivy.
+- Thanks to the open-source community for amazing tools like yt-dlp and Kivy.
