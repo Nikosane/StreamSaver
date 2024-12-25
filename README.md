@@ -1,5 +1,4 @@
-# StreamSaver
-# Python Downloader App 📥🎵🎥
+# StreamSaver 📥🎵🎥
 
 A visually appealing Android app built with Python that allows users to download videos, songs, MP3s, and MP4s with ease. This app uses **Kivy** for the user interface and supports dynamic progress tracking for downloads. 💡
 
@@ -35,5 +34,5 @@ A visually appealing Android app built with Python that allows users to download
 ## How to Use 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Python-Downloader-App.git
-   cd Python-Downloader-App
+   git clone https://github.com/Nikosane/StreamSaver.git
+   cd StreamSaver
